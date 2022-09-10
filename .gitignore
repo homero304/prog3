@@ -4,3 +4,4 @@
 **/*.csproj
 .fake
 **/*.class
+**/*.jar
