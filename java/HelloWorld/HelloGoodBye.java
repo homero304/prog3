@@ -1,5 +1,5 @@
 
-public class HelloGoodBye {
+public class HelloGoodbye {
     public static void main(String[] args) {
         if (args.length != 2) throw new IllegalArgumentException("Please input two names");
         System.out.printf("Hello %s and %s.\n", args[0], args[1]);
